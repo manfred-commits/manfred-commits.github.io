@@ -246,4 +246,5 @@ export default {
   opacity: 1;
   transition: opacity 0.5s;
 }
+
 </style>
