@@ -119,6 +119,25 @@ let info = {
   ],
   portfolio: [    
     {
+      name: "Deliveboo",
+      pictures: [
+        {
+          img: require("./src/assets/portfolio/deliveboo/deliveboo-1.jpg")
+        },
+        {
+          img: require("./src/assets/portfolio/deliveboo/deliveboo-2.png")
+        },
+      ],
+      technologies: ["Laravel","Php","Vue.js","JavaScript","HTML","CSS"],
+      category: "Web App",
+      date: "December, 21",
+      github:
+        "https://github.com/manfred-commits/team-7-deliveboo",
+      visit: "https://deliveboo.herokuapp.com/",
+      description:
+        " Fully functioning food delivery web app, inspired by 'Deliveroo'. "
+    },
+    {
       name: "Spotify web",
       pictures: [
         {
